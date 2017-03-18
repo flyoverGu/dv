@@ -37,7 +37,7 @@
 
     function isSupportDomain() {
         if (!/weibo\.com/.test(document.location.host)) {
-            document.location.href="http://indexof.site/labs/weibo/index.html";
+            document.location.href="http://video.0xgg.com/";
             return false;
         }
         return true;
